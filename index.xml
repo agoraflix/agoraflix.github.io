@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Subtitling with ❤ by Team Agoraflix</copyright>
-    <lastBuildDate>Mon, 28 May 2018 21:22:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 May 2018 11:20:56 -0400</lastBuildDate>
     
 	<atom:link href="https://agoraflix.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Contact</title>
-      <link>https://agoraflix.github.io/contact/</link>
-      <pubDate>Mon, 28 May 2018 21:22:00 -0400</pubDate>
-      
-      <guid>https://agoraflix.github.io/contact/</guid>
-      <description>Email: agoraflix@bazham.com</description>
-    </item>
     
     <item>
       <title>Why is the policy of sanctions not efficient? The evening with Vladimir Soloviev - May 17, 2018</title>
@@ -39,6 +30,15 @@
       <guid>https://agoraflix.github.io/2018/05/the-gift-from-trump.-what-will-russia-get-when-the-usa-leaves-the-agreement-with-iran-the-evening-with-vladimir-soloviev---may-10-2018/</guid>
       <description>Vladimir Soloviev and his guests are discussing the current situation in the Middle East, including the problem of the nuclear deal with Iran, expansion of the USA, and other important problems of the region. They are trying to predict what’s going to happen, and whether the USA will attack Iran, potentially causing a new catastrophe in the region.
  If you want us to produce more subtitles of Vladimir Soloviev&#39;s shows and more subtitles from other shows in other countries, please consider supporting us with a donation (via Paypal).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://agoraflix.github.io/contact/</link>
+      <pubDate>Sat, 28 Apr 2018 21:22:00 -0400</pubDate>
+      
+      <guid>https://agoraflix.github.io/contact/</guid>
+      <description>Email: agoraflix@bazham.com</description>
     </item>
     
   </channel>
