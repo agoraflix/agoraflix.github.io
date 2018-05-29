@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>En on Agoraflix</title>
-    <link>http://agoraflix.com/en/</link>
+    <link>https://agoraflix.github.io/en/</link>
     <description>Recent content in En on Agoraflix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Subtitling with ❤ by Team Agoraflix</copyright>
     
-	<atom:link href="http://agoraflix.com/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://agoraflix.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
