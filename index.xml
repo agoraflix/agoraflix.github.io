@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Subtitling with ❤ by Team Agoraflix</copyright>
-    <lastBuildDate>Thu, 17 May 2018 11:20:56 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 28 May 2018 21:19:14 -0400</lastBuildDate>
     
 	<atom:link href="https://agoraflix.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>https://agoraflix.github.io/2018/05/contact/</link>
+      <pubDate>Mon, 28 May 2018 21:19:14 -0400</pubDate>
+      
+      <guid>https://agoraflix.github.io/2018/05/contact/</guid>
+      <description>Email: agoraflix@bazham.com</description>
+    </item>
     
     <item>
       <title>Why is the policy of sanctions not efficient? The evening with Vladimir Soloviev - May 17, 2018</title>
